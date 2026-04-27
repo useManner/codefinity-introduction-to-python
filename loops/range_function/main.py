@@ -2,7 +2,7 @@
 #     print(day)
 # for day in range(25, 32):
 #     print(day)
-# for hour in range(1,13,3): # 1 : 代表开始值，13：代表停止值，3：代表每次的步数是几
+# for hour in range(1,13,3): # 1 : 代表开始值，13：代表停止值，3：代表每次的步数是几（递增）
 #     print(hour)
 
 
